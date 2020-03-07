@@ -21,7 +21,7 @@ nav {
 nav ul {
     margin: 0px;
     display: flex;
-    padding-left: 30%;
+    padding-left: 17%;
 }
 
 nav ul li {
@@ -42,7 +42,7 @@ section {
     height: auto;
     color: white;
     border: 2px solid #865FC5;
-    border-radius: 5%;
+    border-radius: 2%;
     margin: 0px 70px 10px 70px;
     padding: 0px 10px 10px 10px;
 }
@@ -53,12 +53,18 @@ section h1 {
 
 #sec0 p,
 #sec0 ul,
-#sec1 p {
+#sec1 p,
+#sec2 p,
+#sec2 ul{
     font-size: 20px;
 }
 
 img {
     padding-left: 35%;
+}
+
+#sec2 img{
+    padding-left: 27%;
 }
 
 .just {
