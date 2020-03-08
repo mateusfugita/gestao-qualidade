@@ -21,7 +21,7 @@ nav {
 nav ul {
     margin: 0px;
     display: flex;
-    padding-left: 17%;
+    padding-left: 5%;
 }
 
 nav ul li {
@@ -54,8 +54,10 @@ section h1 {
 #sec0 p,
 #sec0 ul,
 #sec1 p,
+#sec1 ul,
 #sec2 p,
-#sec2 ul{
+#sec3 p,
+#sec3 ul {
     font-size: 20px;
 }
 
@@ -63,7 +65,7 @@ img {
     padding-left: 35%;
 }
 
-#sec2 img{
+#sec3 img{
     padding-left: 27%;
 }
 
